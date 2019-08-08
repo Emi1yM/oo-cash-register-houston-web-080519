@@ -1,5 +1,5 @@
 class CashRegister
-  attr_accessor :cash_register_with_discount
+  attr_accessor :cash_register
   
   
 end
